@@ -1,7 +1,6 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
 url:            "https://chesterhow.github.io"
 
 # Author
@@ -30,6 +29,3 @@ plugins:
 # Permalinks
 permalink:      /:year-:month-:day/:title
 paginate:       5
-
-# Disqus (Set to your disqus id)
-disqus:         jekyll-tale
