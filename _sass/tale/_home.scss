@@ -1,0 +1,40 @@
+.home {
+  &-post {
+    display: flex;
+    padding: 5px 0;
+
+    &-title {
+      color: $default-color;
+      text-decoration: none;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    &-line {
+      @include transition(all 0.3s ease-out);
+      border-top: 0.1rem solid $default-shade;
+      display: block;
+      width: 0;
+    }
+
+    &-meta {
+      color: $default-tint;
+      white-space: nowrap;
+      margin-right: 1rem;
+      font-family: $serif-secondary;
+      font-size: 18px;
+    }
+
+    &:hover,
+    &:active {
+      .home-post-line {
+        width: 3rem;
+      }
+
+      .home-post-meta {
+        color: $default-shade;
+      }
+    }
+  }
+}
