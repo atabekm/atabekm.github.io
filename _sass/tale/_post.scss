@@ -15,7 +15,7 @@
   &-title {
     color: $default-shade;
     font-family: $sans-serif;
-    font-size: 4rem;
+    font-size: 3rem;
     margin: 1rem 0;
     text-align: center;
   }
@@ -25,6 +25,10 @@
     display: block;
     margin: 0 auto 3rem;
     width: 4rem;
+  }
+
+  &-tag {
+    color: $default-tint;
   }
 
   p {

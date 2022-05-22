@@ -4,16 +4,25 @@ layout: default
 
 <div class="post">
   <div class="post-info">
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
+    <i class="bi bi-person"></i>
+    {% if page.author %} 
+        {{ page.author }} 
+    {% else %} 
+        {{ site.author.name }} 
+    {% endif %} 
+
+    {% if page.date %} 
+        <i class="bi bi-dot"></i>
+        <i class="bi bi-calendar-event"></i>
+        <time datetime="{{ page.date }}">{{ page.date | date: "%d-%m-%Y" }}</time>
     {% endif %}
 
-    {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% if page.tags %}
+        <i class="bi bi-dot"></i>
+        <i class="bi bi-tags"></i>
+        {% for tag in page.tags %}
+            <a href="{{ '/tags' | prepend: site.baseurl }}#{{ tag }}" class="post-tag">{{ tag }}</a>
+        {% endfor %}
     {% endif %}
   </div>
 
@@ -25,11 +34,12 @@ layout: default
 
 <div class="pagination">
   {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="right arrow">Keyingi maqala &#8594;</a>
   {% endif %}
   {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="left arrow">&#8592; Aldınǵı maqala</a>
   {% endif %}
 
-  <a href="#" class="top">Top</a>
+  <a href="#" class="top">Joqarıǵa</a>
 </div>
+
