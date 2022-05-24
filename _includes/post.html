@@ -1,0 +1,34 @@
+{%- assign localizations = site.data.localizations %}
+<div class="post">
+  <div class="post-info">
+    <i class="bi bi-person"></i>
+    {% if page.author %} 
+      {{ page.author }} 
+    {% else %} 
+      {{ site.author.name }} 
+    {% endif %} 
+    
+    {% if page.date %}
+      <i class="bi bi-dot"></i>
+      <i class="bi bi-calendar-event"></i>
+      <time datetime="{{ page.date }}">{{ page.date | date: "%d-%m-%Y" }}</time>
+    {% endif %} 
+
+    {% if page.tags %}
+      <i class="bi bi-dot"></i>
+      <i class="bi bi-tags"></i>
+      {% for tag in page.tags %}
+        <a href="{{ site.baseurl }}{{ localizations.languages[page.language].base_url }}{{ '/tags' }}#{{ tag }}" class="post-tag">{{ tag }}</a>
+      {% endfor %} 
+    {% endif %}
+  </div>
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
+
+  {{ content }}
+</div>
+
+<div class="pagination">
+  <a href="#" class="top">&uarr; {{ localizations.translations.top[page.language] }}</a>
+</div>

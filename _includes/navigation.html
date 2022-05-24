@@ -4,9 +4,40 @@
       <h2 class="nav-title">{{ site.title }}</h2>
     </a>
     <ul>
-      <li><a href="{{ site.baseurl }}/">Maqalalar</a></li>
-      <li><a href="{{ '/tags' | prepend: site.baseurl }}">Tegler</a></li>
-      <li><a href="{{ '/about' | prepend: site.baseurl }}">Haqqında</a></li>
+      {%- assign navigation_pages = site.pages
+        | where: 'layout', 'page'
+        | where: 'language', page.language
+        | sort: 'order' %}
+      {%- for navigation_page in navigation_pages %}
+      <li{%- if navigation_page.title == page.title %} class="current"{%- endif %}>
+        <a href="{{ site.baseurl }}{{ navigation_page.permalink }}">{{ navigation_page.title }}</a>
+      </li>
+      {%- endfor %}
+
+      {%- for language in site.data.localizations.languages %}
+        {%- if language[0] != page.language %}
+          {%- assign lang_to_translate = language %}
+        {% endif %}
+      {% endfor %}
+
+      {%- if page.layout == 'post' %}
+        {%- assign page_obj = site.posts
+          | where: 'layout', 'post'
+          | where: 'language', lang_to_translate[0]
+          | where: 'ref', page.ref
+          | first
+          %}
+      {%- else %}
+        {%- assign page_obj = site.pages
+          | where: 'layout', 'page'
+          | where: 'language', lang_to_translate[0]
+          | where: 'ref', page.ref
+          | first
+          %}
+      {%- endif %}
+      <li>
+        <a href="{{ site.baseurl }}{{ page_obj.url }}">[{{ lang_to_translate[1].value }}]</a>
+      </li>
     </ul>
   </div>
 </nav>

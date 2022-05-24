@@ -1,0 +1,33 @@
+<div class="tags">
+  <div class="tags-header">
+    <h2 class="tags-header-title">{{ page.title }}</h2>
+    <div class="tags-header-line"></div>
+  </div>
+  {%- assign tags = site.tags %}
+  <div class="tags-clouds">
+    {% for tag in tags %} 
+      {% if tag[1][0].language == page.language %}
+        <a href="#{{ tag[0] }}">{{ tag[0] }}</a>
+      {% endif %} 
+    {% endfor %}
+  </div>
+  {% for tag in tags %} 
+    {% if tag[1][0].language == page.language %}
+      <div class="tags-item" id="{{ tag[0] }}">
+        <i class="bi bi-tags-fill"></i>
+        <h2 class="tags-item-label">{{ tag[0] }}</h2>
+        {% for post in tag[1] %}
+          <a class="tags-post" href="{{ post.url | prepend: site.baseurl }}">
+            <div>
+              <span class="tags-post-title">{{ post.title }}</span>
+              <div class="tags-post-line"></div>
+            </div>
+            <span class="tags-post-meta">
+              <time datetime="{{ post.date }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+            </span>
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %} 
+  {% endfor %}
+</div>

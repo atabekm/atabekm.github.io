@@ -1,9 +1,6 @@
----
-layout: default
----
-
 <div style="margin: 40px 0">
-  {% for post in paginator.posts %}
+  {%- assign posts = site.posts | where: 'language', page.language %} {% for
+  post in posts %}
   <a class="home-post" href="{{ post.url | prepend: site.baseurl }}">
     <span class="home-post-meta">
       <time datetime="{{ post.date }}">

@@ -1,18 +1,16 @@
 # Site settings
-title:          Tale
+title:          atabek.me
 description:    "Minimal Jekyll theme for storytellers"
 url:            "https://chesterhow.github.io"
 
 # Author
 author:
-  name:         Chester How
+  name:         Atabek
   url:          https://chester.how
   email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
-include:
-  - _pages
 
 # Assets
 sass:
@@ -29,3 +27,18 @@ plugins:
 # Permalinks
 permalink:      /:year/:month/:day/:title
 paginate:       10
+
+defaults:
+  - scope:
+      path: "_posts/lat"
+      type: "posts"
+    values:
+      permalink: "lat/:year/:month/:day/:title"
+      language: lat
+  - scope:
+      path: "_posts/cyr"
+      type: "posts"
+    values:
+      permalink: "cyr/:year/:month/:day/:title"
+      language: cyr
+

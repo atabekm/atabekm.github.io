@@ -1,0 +1,14 @@
+languages:
+  lat:
+    value: Latınsha
+    slug: lat
+    base_url: ""
+  cyr:
+    value: Кириллше
+    slug: cyr
+    base_url: /cyr
+
+translations:
+  top:
+    lat: Joqarıǵa
+    cyr: Жоқарыға
