@@ -1,13 +1,12 @@
 # Site settings
 title:          atabek.me
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+description:    "Jámiyettegi qubılıs hám mashqalalarǵa subyektiv kóz qaras"
+url:            "https://atabek.me"
 
 # Author
 author:
   name:         Atabek
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  url:          https://atabek.me
 
 # Build settings
 markdown:       kramdown
