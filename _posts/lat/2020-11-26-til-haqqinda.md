@@ -7,14 +7,18 @@ ref: about-language
 tags: til bayram
 ---
 
-Jaqında kiyatırǵan til bayramı múnásebeti menen social tarmaqlardaǵı belsendi blogerler tayarlıqlardı baslap jibergen eken. Bul álbette jaqsı, sebebi qaraqalpaq tilin saqlap qalıw ápiwayı xalıqtıń qolındama deymen, húkimettiń is-háreketlerine qaraǵanda olardan derlik hesh qanday úmit joq. Tilge baylanıslı hár qıylı konkurs hám jarıslarda qatnasqan jaqsı, biraq eger qáleseńiz men sizlerge onnanda paydalıraq chellendj bereyin 😉. Eger tildiń rawajlanıwı ushın úles qosaman deseńiz tómendegilerdi qılsańız boladı:
+Jaqınlap kiyatırǵan til bayramı múnásibeti menen, social tarmaqlardıń belsendi blogerleri tayarlıqların álleqashan baslap jibergen usaydı. Bul, álbette, jaqsı. Sebebi, qaraqalpaq tilin saqlap qalıw ápiwayı xalqımızdıń ǵana qolında, al húkimettiń is-háreketlerine, biypárwalıǵına qaraǵanda, endigiden bılay olardan derlik heshqanday úmit joq.
 
-- Jaqtırǵan kitaplarıńız bolsa, solardı elektronlastırıwǵa úles qosıń hám keyinshelik olardı [kitapxana.com](http://www.kitapxana.com) ya basqa soǵan usaǵan saytlarǵa jaylastırıwǵa boladı
+Tilge baylanıslı hár qıylı konkurs hám jarıslardı shólkemlestirgen maqul, biraq ta qáleseńiz, men sizlerge onnan da paydalıraq chellendjdi usınıs etemen. 😉
 
-- Aldıńǵıǵa usas, eger audio kitaplardı jaqtırsańız, onda sol súykimli kitaplarıńızdı audio kórinisinde oqıp, basqalarǵa esitiw imkániyatın jaratsańız boladı (bul kózi ázzi adamlarǵada úlken járdem boladı dep oylayman)
+Eger tildiń rawajlanıwına úles qosaman degen niyetińiz bolsa, tómendegilerdi ámelge asırsańız boladı:
 
-- Eger bir tarawdıń mamanı bolsańız hám bilimiń hám tájiriybeńizdi basqalar menen bólisiwdi qáleseńiz Qaraqalpaq Wikipediyasında maqalalar qosıń, yamasa arnawlı blog/telegram kanal ashıń
+- ózińiz súyip oqıytuǵın kitaplarıńız bar bolsa, olardı elektronlastırıwǵa úlesińizdi qosıń hám keyinshelli bul kitaplardı [kitapxana.com](http://www.kitapxana.com) yamasa basqa da soǵan usas saytlarǵa jaylastırıw imkanı payda boladı;
 
-- Eger shet tillerin bilseńiz, onda shet ellikler ushıń qaraqalpaq tili úyretetuǵın hár qıylı resurslar tayarlań, máselen ápiwayı razgovornik
+- joqarıdaǵı jaǵdayǵa usas, eger audio kitaplardı unatsańız, onda sol súyikli kitaplarıńızdı óz dawısıńız benen oqıp, audio kórinisine keltirip, basqalarǵa esitiw imkaniyatın jaratsańız boladı (bul kózi ázzi adamlarǵa da úlken járdem boladı dep oylayman);
 
-Bular tek meniń esime kelgen bir neshe variantlar, anıq isenemen basqalarda bunnanda kóp ideyalar bolıwı múmkin. Tilimiz rawajlansın deseńiz, ózińiz hám úles qosıń.
+- eger qandayda bir tarawdıń mamanı bolsańız, bilimińiz hám tájiriybeńizdi basqalar menen bólisiwdi qáleseńiz, maqalalar jazıń hám Qaraqalpaq Wikipediyasına qosıń yamasa arnawlı blog/Telegram-kanal ashıp, onı júrgiziń;
+
+- eger shet tillerin bilseńiz, onda sırt elliler ushın qaraqalpaq tilin úyretetuǵın hár qıylı resurslar tayarlań. Mısalı, ápiwayı razgovornik.
+
+Bul sanap ótkenlerim tek meniń yadıma kelgen birneshe variantlar ǵana edi. Anıq isenim bildirip ayta alaman, basqalarda bunnan da kóbirek ideyalar bar bolıwı múmkin. Tilimiz rawajlansın deseńiz, ózińiz hám úlesińizdi qosıń.
