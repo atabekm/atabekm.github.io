@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Qaraqalpaqstan walayatı
+title: Qaraqalpaqstan wálayatı
 author: atabek
 language: lat
 ref: qaraqalpaqstan-region
 tags: Qaraqalpaqstan
 ---
 
-davletovuz telegram kanalınıń [aytıwınsha](https://t.me/davletovuz/14080), Ózbekistannıń bir neshe walayatları Qaraqalpaqstan Respublikasınıń rayonların rawajlandırıwǵa shaqırılǵan deydi, mısal retinde Surxandarya walayatı Taxiyatash rayonın, Ferǵana Bozatawdı, Sırdárya Qanlıkóldi, Ándijan Kegeylini rawajlandırıwǵa kómeklesedi eken.
+Davletovuz Telegram-kanalınıń [xabar beriwinshe](https://t.me/davletovuz/14080), Ózbekstannıń birneshe wálayatları Qaraqalpaqstan Respublikasınıń rayonların rawajlandırıwǵa shaqırılǵan eken. Mısal retinde, Surxandárya wálayatı Taqıyatas rayonın, Ferǵana — Bozatawdı, Sırdárya — Qanlıkóldi, Ándijan — Kegeylini rawajlandırıwǵa kómeklesedi eken.
 
-Qaraqalpaqstannıń úlken Respublika atı bolǵanı menen, ol tek "qaǵazda" ǵana qalǵan, reallıqta basqa walayatlardan hesh parqı joq. Men túsiner edim, eger "civilizaciya" kórgen mámleketlerdiń kadrları kelip tájiriybeleri menen bólisse, biraq 30 jıldan beri bir sistemada "tárbiya" alǵanlar kelip ne úyrete alıwına men hayranman.
+Qaraqalpaqstannıń úlken respublika statusı bolǵanı menen, ol tek qaǵazda ǵana qalǵan, reallıqta bolsa basqa wálayatlardan heshqanday parqı joq. Men túsiner edim, eger “civilizaciya” kórgen mámleketlerdiń kadrları kelip, tájiriybeleri menen bólisse, biraq otız jıldan berli bir sistemada “tárbiya” alǵanlar kelip, ne nárseni úyrete alıwına men hayranman.
 
-Bul birinshi náwbette Respublika basshılarınıń júzine úlken "shapalaq" dep oylayman. Óz qarawıńızdaǵı aymaǵıńızdı sál bolsada rawajlandıra almaysızba, onda basqalar kelip aqıl úyretse qapa bolmań.
+Bul, birinshi náwbette, respublika basshılarınıń júzine úlken “shapalaq” boldı dep oylayman. Óz qaramaǵıńızdaǵı aymaǵıńızdı sál bolsa da rawajlandıra almaysız ba, onda basqalar kelip aqıl úyrete baslasa, qapa bolmań.
