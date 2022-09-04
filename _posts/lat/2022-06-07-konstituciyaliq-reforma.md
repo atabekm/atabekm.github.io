@@ -7,19 +7,27 @@ ref: constitutional-reform
 tags: konstituciya reforma Ózbekistan
 ---
 
-Ótken aydan baslap Ózbekistanda konstituciyalıq reformalar haqqında gáp sózler baslandı. Ádette, avtoritar rejimlerde bunday ózgerisler tiykarınan sol rejimniń legitimligin uzaytıw/sozdırıw ushın paydalanıladı. Ápiwayı xalıq tilinde orıssha "обнуление" dep atalatuǵın bul process, Karimov dáwirinde hám paydalanılǵan, al 2020-jılı Rossiyada, usı jılı qońsılas Qazaqstanda bolıp atır (Qazaqstandaǵı házirshe reforma, "обнуление" bolmaydı dep atır prezidenti, endi bunı waqıt kórsetedi). Usı "обнуление"ler haqqında gazeta.uz’da qaysı mámleketlerde bunday qubılıslar bolǵanlıǵı tuwralı jaqsı material tayarlaǵan eken ([orıssha](https://www.gazeta.uz/ru/2022/05/27/constitution-reform/) variant, [ózbekshe](https://www.gazeta.uz/oz/2022/05/27/presidential-term/)).
+Ótken aydan baslap, Ózbekstanda konstituciyalıq reformalar haqqında gáp-sózler baslandı. Ádette avtoritar rejimlerde bunday ózgerisler, tiykarınan, sol rejimniń legitimliligin uzaytıw/sozdırıw ushın qollanıladı. Ápiwayı xalıq tilinde, russha “обнуление” dep atalatuǵın bul process Karimov dáwirinde de paydalanılǵan, al 2020-jılı Rossiyada, usı jılı — qońsılas Qazaqstanda bolıp atır (Qazaqstandaǵısı házirshe reforma, prezidentiniń aytıwı boyınsha, “обнуление” bolmaydı, endi bunı waqıt kórsetedi). Usı “nóllestiriw”ler haqqında hám qaysı mámleketlerde bunday qubılıslar bolǵanlıǵı tuwralı Gazeta.uz’da jaqsı material tayarlanǵan eken ([orıssha](https://www.gazeta.uz/ru/2022/05/27/constitution-reform/); [ózbekshe](https://www.gazeta.uz/oz/2022/05/27/presidential-term/)).
 
-Ulıwma alǵanda, konstituciyalıq reformalar bul jámiyet hám civilizaciyalardıń evolyuciyasında tábiyiy jaǵday. Yaǵnıy, adamlar, jámiyetler rawajlanǵan sayın olardıń mútájlikleri, kóz-qarasları ózgerip baradı. Biraq bizlerdiń jaǵdayda bul reforma "jasalma"ǵa uqsap turıptı. Sebebi onıń tábiyiy bolıwı ushın mámleket penen xalıq bir "tolqın"da bolıwı kerek, yaǵnıy qandaydır bir maqsetke birgelikte intiliw kerek. Bizlerde ele onday "tolqın" joq, xalıq bálkim eldiń rawajlanıwın qáler, biraq mámleket hám onıń byurokratiyası bunı ózgeshe túsinedi.
+Ulıwma alǵanda, konstituciyalıq reformalar bul jámiyet hám civilizaciyalar evolyuciyasındaǵı tábiyiy jaǵday. Yaǵnıy, adamlar, jámiyetler rawajlanǵan sayın, olardıń mútájlikleri, kóz qarasları ózgerip baradı.
 
-Bálkim bul reforma jaqsı niyet penen-aq islenip atırǵan bolıwı múmkin, biraq konstituciyalıq reforma boyınsha komissiyanıń basshısı etip Akmal Saidov degen adamnıń qoyılıwı bul niyetlerdiń pıt-shıtın shıǵardı desekte bolatuǵın shıǵar. Bul adamdı xameleonǵa mezgetemen men, qálegen rejimde islep keteberedi, qálegen rejimdi qollap keteberedi, princip degenniń "p" háribide joq. Gitlerdiń qasına jiberseńiz nacizmdi, Li Kuan Yudiń janına barsa 3-dúnya mámleketin 1-dúnya mámleketine aylandırıw kerekligin, al Arqa Koreyaǵa barsa Chuchxe eń durıs ideologiya ekenin toqtamay "sayraytuǵın" demagog sıyaqlı.
+Lekin, bizlerdiń jaǵdayda bul reforma “jasalma”ǵa uqsap tur. Sebebi, onıń tábiyiy bolıwı ushın, mámleket penen xalıq “bir tolqın”da bolıwı zárúr, yaǵnıy qandayda bir maqsetke birgelikte umtılıwı kerek. Bizlerde bolsa ele onday “tolqın” joq, xalıq, bálkim, eldiń rawajlanıwın qáler, biraq ta mámleket hám onıń byurokratiyası bunı ózgeshe túsinedi.
 
-Yaqshı, házirshe aldınǵa túsip jorǵalamay turayıq, bálkim mırza prezidenttiń ózinen keyin jaqsı sistema qaldırıp ketiw oyı bar shıǵar, oyında ne bar ekenin bilmeymizǵo. Sol maqsette, konstituciyaǵa:
+Bálkim, bul reforma jaqsı niyet penen-aq islenip atırǵan bolıwı múmkin, degen menen Konstituciyalıq komissiyanıń basshısı etip Akmal Saidov degen adamnıń qoyılıwı bul niyetlerdiń pıt-shıtın shıǵardı, bizińshe.
 
-- impichment
-- prezident wazıypalarınıń bir bólegin parlamentke beriw
-- hákimlerdi saylaw huqıqı
+Bul adamdı men xameleonǵa megzetemen: qálegen rejimde islep kete beredi, qálegen rejimdi qollap ketedi, princip degenniń “p” háribi de joq. Gitlerdiń qasına jiberseńiz, nacizmdi, Li Kuan Yudiń janına barsa, úshinshi dúnya mámleketin birinshi dúnya mámleketine aylandırıw kerekligin, al Arqa Koreyaǵa barsa — Chuchxe eń durıs ideologiya ekenligin toqtamay “sayraytuǵın” demagog sıyaqlı.
+
+Yaqshı, házirshe aldıǵa túsip jorǵalamay turayıq, múmkin, mırza prezidenttiń ózinen keyin jaqsı sistema qaldırıp ketiw oyı bar shıǵar, oyında ne bar-joqlıǵın biz bilmeymiz ǵoy. Sol maqsette, konstituciyaǵa:
+
+- impichment;
+- prezident wazıypalarınıń bir bólegin parlamentke beriw;
+- hákimlerdi saylaw huqıqı;
 - keleshekte superprezidentlik respublikadan parlamentar respublikaǵa ótiw
 
-sıyaqlı ózgerislerdi kirgiziwdi niyet qılǵan shıǵar bálkim?
+— usı sıyaqlı ózgerislerdi kirgiziwdi niyet qılǵan shıǵar, bálkim?
 
-Bulardıń barlıǵın endi waqtı kelgende bilip alamız, biraq meni joqarıda gazeta.uz'da aytıp ótken maqalanıń eń aqırında berilgen soraw qızıqtırıp turda. Aytayıq, komissiya barlıq qızıǵıwshı táreplerdiń konstituciyaǵa ózgerisler boyınsha pikirlerin jıynap, konstituciyaǵa ózgerislerdi referendum ya basqa kóriniste usınısqa qoydı. Usınıslar qabıl etildi dep hám esaplayıq. Biraq, eger bul usınıslardıń ishinde [90-statyanı](https://constitution.uz/ru/clause/index#item90) (_Prezident izbe-iz eki múddetten kópke saylana almaydı_) ózgertiw boyınsha usınıs bolmasada, bul konstituciyanıń "обнуление" bolıwına alıp keleme eken? Buǵan endi Konstituciyalıq Sud degen organ anıq juwap beriwi kerek, biraq bizlerdegi sudlardıń jaǵdayın eske alsaq, obektiv juwap alıwımızǵa úmit etsek bolama eken?
+Bulardıń barlıǵın endi waqtı kelgende bilip alamız. Lekin, meni joqarıdaǵı Gazeta.uz’da járiyalanǵan maqalanıń eń sońında berilgen soraw qızıqtırıp tur-da.
+
+Aytayıq, Konstituciyalıq komissiya barlıq qızıǵıwshı táreplerdiń pikirlerin, usınısların jıynap, konstituciyalıq ózgerislerdi referendum ya basqa kóriniste dawısqa qoydı. Usınıslar qabıl etildi dep te esaplayıq. Eger bul usınıslardıń arasında [90-statyanı](https://constitution.uz/ru/clause/index#item90) (_prezident izbe-iz eki múddetten artıq saylana almawın_) ózgertiw boyınsha usınıs bolmasa da, bul konstituciyanıń “обнуление” bolıwına alıp kele me degen soraw payda boladı.
+
+Buǵan endi Konstituciyalıq Sud degen organ anıq juwap beriwi lazım, degen menen bizlerdegi sudlardıń jaǵdayın eske alsaq, obyektiv juwap alıwımızǵa úmit etiw dargúman.
