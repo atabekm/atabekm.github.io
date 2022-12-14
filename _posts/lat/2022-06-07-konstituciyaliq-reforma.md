@@ -4,7 +4,7 @@ title: Konstituciyalıq reforma
 author: atabek
 language: lat
 ref: constitutional-reform
-tags: konstituciya reforma Ózbekistan
+tags: konstituciya reforma Ózbekstan
 ---
 
 Ótken aydan baslap, Ózbekstanda konstituciyalıq reformalar haqqında gáp-sózler baslandı. Ádette avtoritar rejimlerde bunday ózgerisler, tiykarınan, sol rejimniń legitimliligin uzaytıw/sozdırıw ushın qollanıladı. Ápiwayı xalıq tilinde, russha “обнуление” dep atalatuǵın bul process Karimov dáwirinde de paydalanılǵan, al 2020-jılı Rossiyada, usı jılı — qońsılas Qazaqstanda bolıp atır (Qazaqstandaǵısı házirshe reforma, prezidentiniń aytıwı boyınsha, “обнуление” bolmaydı, endi bunı waqıt kórsetedi). Usı “nóllestiriw”ler haqqında hám qaysı mámleketlerde bunday qubılıslar bolǵanlıǵı tuwralı Gazeta.uz’da jaqsı material tayarlanǵan eken ([orıssha](https://www.gazeta.uz/ru/2022/05/27/constitution-reform/); [ózbekshe](https://www.gazeta.uz/oz/2022/05/27/presidential-term/)).

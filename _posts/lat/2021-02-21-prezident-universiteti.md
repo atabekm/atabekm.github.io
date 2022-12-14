@@ -22,4 +22,4 @@ Ekinshi másele bul sońǵı waqıtları tálim menen baylanıslı mákemeler, s
 
 Bizdegi jańadan ashılajaq universitettıń atı bul eki kategoriyanıń heshqaysısına da tiyisli emes ekenligi kórinip tur (yamasa prezident óz aylıǵınan qıyıp, usı universitetti ashıp atır ma eken? 🤔).
 
-Ózbekistan xalqı tólegen salıqlar esabınan toltırılıp barılatuǵın mámleket byudjetinen qarjılandırılatuǵın universitetke, qansha húrmeti bolmasın, mámleket basshısınıń atı qoyılıwı bir ersi kórinedi, bizińshe.
+Ózbekstan xalqı tólegen salıqlar esabınan toltırılıp barılatuǵın mámleket byudjetinen qarjılandırılatuǵın universitetke, qansha húrmeti bolmasın, mámleket basshısınıń atı qoyılıwı bir ersi kórinedi, bizińshe.

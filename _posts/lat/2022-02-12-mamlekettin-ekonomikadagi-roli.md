@@ -11,7 +11,7 @@ Jaqın kúnlerde Ándijan walayatınıń rayonlarınıń birinde mektep muǵalli
 
 Endi bunday jaǵday normal jámiyette/mámlekette bolǵanda, qanday juwmaqlanıwı múmkin edi degen sorawǵa juwap izlep kórsek. Aytayıq, mektep direktorı sol jerdegi muǵallimlerdiń birewine onıń wazıypasına kirmeytuǵın tapsırma berdi. Ózin húrmet etiwshi insan retinde muǵallim bul isten bas tarttı. Direktor “yaq, isleyseń” dep turıp aldı. Muǵallim “пошел…” dep, arzasın jazıp, jumıstan shıǵıp ketti hám basqa táwirlew mektepten jumıs tawıp ornalastı. Bizlerde bunday “пошел” deytuǵınlar da tabılatuǵın shıǵar, biraq, menińshe, bar bolsa da, júdá hám az. Buǵan baslı sebeplerdiń biri bul mámlekettiń ekonomikadaǵı roli.
 
-Ekonomist Yuliy Yusupovtıń aytıwınsha, Ózbekistanda mámlekettiń ekonomikadaǵı úlesi, shama menen, 55% ke teń, yaǵnıy mámleketlik shólkem hám kárxanalar ekonomikanıń yarımınan kóbin quraydı. Bul júdá hám kóp, rawajlanǵan mámleketlerge itibar qaratatuǵın bolsaq, bul kórsetkish 20-25% ten aspaydı, kommunistlik Qıtayda bul kórsetkish hátteki 12% ti quraydı.
+Ekonomist Yuliy Yusupovtıń aytıwınsha, Ózbekstanda mámlekettiń ekonomikadaǵı úlesi, shama menen, 55% ke teń, yaǵnıy mámleketlik shólkem hám kárxanalar ekonomikanıń yarımınan kóbin quraydı. Bul júdá hám kóp, rawajlanǵan mámleketlerge itibar qaratatuǵın bolsaq, bul kórsetkish 20-25% ten aspaydı, kommunistlik Qıtayda bul kórsetkish hátteki 12% ti quraydı.
 
 Biz bilemiz, mámleket bul júdá jaman basqarıwshı, bunı esapqa alǵan rawajlanıwdı qálewshi mámleketler, birinshi náwbette, mámlekettiń ekonomikadaǵı rolin azaytıwǵa háreket etedi. Sebebi, derlik heshqashan mámleketlik kárxanalar effektivliligi jaǵınan jeke kárxanalarǵa jete almaydı.
 
